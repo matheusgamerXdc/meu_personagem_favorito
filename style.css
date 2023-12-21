@@ -1,0 +1,37 @@
+body{
+    background-color: darkorange;
+    text-align: center;
+  }
+  
+  #nomeanime{
+  text-decoration: underline;
+    font-size: 40px;
+  }
+  h1{
+    color: darkblue;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    padding: 10px;
+  }
+  p{
+    color:darkred;
+    word-spacing: 10px;
+    font-variant: smallcaps;
+    font-family: Arial;
+    font-size: 20px;
+  }
+  a{
+    color: white;
+    font-size: 20px;
+    border-style: solid;
+    border-color: darkblue;
+    border-width: 2px;
+    padding: 10px;
+    border-radius: 20px;
+    
+  }
+  .mais_sobre_anime{
+    color: darkblue;
+    font-size: 18px;
+  }
